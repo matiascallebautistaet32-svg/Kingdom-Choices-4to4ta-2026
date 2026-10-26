@@ -1,1 +1,2 @@
 # Kingdom-Choices-4to4ta-2026
+El dia de hoy agrege mas tablas en el DER y tambien termine de hacer el MER, ya que faltaban agregar varias cosas aparte de las tablas recientes. Pude terminar todo y espero a que el profesor Damian Olaso pueda revisar el DER y el MER para que pueda corregirme en algunas cosas y que pueda ayudarme. El SQL estabamos tambien metiendo las tablas y agregando un par de cosas, y hemos estado hablando en el grupo sobre las proximas entregas del proyecto. Eso fue todo por hoy
