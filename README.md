@@ -1,1 +1,2 @@
 # Kingdom-Choices-4to4ta-2026
+El dia de hoy, estuvimos terminando con Lauti, la mineria y el general minero. Le pudimos arreglar lo que es que quede centrado el sprite, y que pueda aparecer todos los sprites de los niveles de la mineria . Ademas estuve avanzando con la carpeta de campo e ir poniendo lo que modificamos. Aparte de todo eso, estuve pensado en poner habitantes en el pueblo, ya que en si es un imperio, y necesitamos habitantes, y estuve viendo algunos sprites de chozas/casas, pero ninguno me llamo la atencion.
