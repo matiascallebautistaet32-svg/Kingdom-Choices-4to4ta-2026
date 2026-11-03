@@ -1,1 +1,2 @@
 # Kingdom-Choices-4to4ta-2026
+El dia de hoy, estuve haciendo los sprites del minero y la mineria(cositas nuevas que pusimos) y estuve pensado en que valores le ponia con respecto al costo y lo que vaya a dar. Todo esto los estuvimos pensado yo y Lauti mi compañero y amigo de grupo, con el estuvimos agregando esta nueva estrutura al juego, y aunque no terminamos de ponerla, mañana avanzaremos con lo que falta.
